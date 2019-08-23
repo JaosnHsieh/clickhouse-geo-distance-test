@@ -13,7 +13,7 @@ Calculate distance by lat long from one row to next row ( order by time )
 
 5. `$make query-test-table`
 
-6. `$make query-distance-table`, the most important step to do. complete SQL in `query-distance.sql` 
+6. `$make query-distance-from-test-table`, the most important step to do. complete SQL in `query-distance.sql` 
 
 
 
